@@ -1,8 +1,11 @@
+#Andrew Robinson
+#8/17/2022
+#Rock Paper Scissors Game
+
 from asyncio.windows_events import NULL
 import time
 import random
 
-#Rock Paper Scissors Game
 print("Lets Play:")
 print("Rock, Paper Scissors")
 
