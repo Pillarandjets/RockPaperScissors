@@ -153,7 +153,7 @@ if(userWins == 3 and computerWins == 0):
     print("Flawless Victory!")
     
 elif(computerWins == 3 and userWins == 0):
-    print("Computer has 3 wins and wins the match!")
+    print("Computer has 3 points and wins the match!")
     time.sleep(1)
     print("Flawless Victory!")
     
@@ -161,7 +161,7 @@ elif(userWins == 3):
      print("Player has 3 points and wins the Match!")
      
 elif(computerWins == 3):
-    print("Computer has 3 wins and wins the match!")
+    print("Computer has 3 points and wins the match!")
     
 time.sleep(1)
 print("Game Over")
